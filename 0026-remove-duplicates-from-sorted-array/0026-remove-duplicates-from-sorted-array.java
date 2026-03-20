@@ -18,10 +18,10 @@ class Solution {
             right--;
         }
         return k;*/
-        HashSet<Integer>mahi=new HashSet<>();
+        LinkedHashSet<Integer>mahi=new LinkedHashSet<>();
         for(int num:nums) mahi.add(num);
         int j=0;
        for(int val:mahi) nums[j++]=val;
-        return mahi.size();
+        return j;//Arrays.sort(nums);
     }
 }
