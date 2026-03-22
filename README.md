@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 <!---LeetCode Topics End-->
