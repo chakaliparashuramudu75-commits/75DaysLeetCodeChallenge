@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2906-construct-product-matrix](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/2906-construct-product-matrix/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0238-product-of-array-except-self/) | Medium |
+| [2906-construct-product-matrix](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/2906-construct-product-matrix/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2906-construct-product-matrix](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/2906-construct-product-matrix/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
