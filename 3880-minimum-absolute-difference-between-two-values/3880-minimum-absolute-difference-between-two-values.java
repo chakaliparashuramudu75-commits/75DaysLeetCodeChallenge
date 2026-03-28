@@ -26,7 +26,7 @@ class Solution {
             else if(nums[i]==2)
             {
                 la=i;
-                if(la!=-1)
+                if(fi!=-1)
                 {
                     s=Math.min(s,Math.abs(fi-la));
                 }
