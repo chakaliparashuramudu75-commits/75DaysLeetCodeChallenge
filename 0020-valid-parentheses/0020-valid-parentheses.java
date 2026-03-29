@@ -14,6 +14,6 @@ class Solution {
                 if(((c=='(') && ch!=')') || ((c=='{') && ch!='}') ||((c=='[') && ch!=']')) return false;
             }
         }
-        return true;
+       return  mahi.isEmpty()?true:false;
     }
 }
