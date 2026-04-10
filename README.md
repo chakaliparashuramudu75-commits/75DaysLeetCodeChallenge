@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
+| [0141-linked-list-cycle](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0283-move-zeroes/) | Easy |
 ## Binary Search
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0141-linked-list-cycle](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
