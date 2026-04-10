@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2906-construct-product-matrix](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
