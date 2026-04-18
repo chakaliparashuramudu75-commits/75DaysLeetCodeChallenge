@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
