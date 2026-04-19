@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2906-construct-product-matrix](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
