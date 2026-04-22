@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2906-construct-product-matrix](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0657-robot-return-to-origin/) | Easy |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/0206-reverse-linked-list/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/chakaliparashuramudu75-commits/75DaysLeetCodeChallenge/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 <!---LeetCode Topics End-->
